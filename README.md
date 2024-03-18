@@ -36,3 +36,7 @@ Resume Best Match Project
     ],
     "status": "success"
 }
+
+
+
+notebook link - https://console.cloud.google.com/vertex-ai/colab/notebooks?authuser=1&hl=en&project=wellsfargo-genai24-8126&activeNb=projects%2Fwellsfargo-genai24-8126%2Flocations%2Fus-central1%2Frepositories%2F330af4e9-86e4-45c1-b4d6-4365687c07ec
