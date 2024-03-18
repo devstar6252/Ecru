@@ -2,7 +2,7 @@
 Resume Best Match Project
 1. Run all cells in .ipynb file at once.
 2. Go to last cell and get the Gloable link.
-3. Make API call using this lik ex- https://c8de-34-70-189-202.ngrok-free.app/get_resumes_list
+3. Make API call using like this ex- https://c8de-34-70-189-202.ngrok-free.app/get_resumes_list
 4. POST data similar to -
 5. {
    "context": "Mortage banking",
